@@ -1,3 +1,3 @@
 <?Php 
-('hangpingl9@gmail.com','表題subject',"メッセージ\r\n次の行");
+mail('hangpingl9@gmail.com','表題subject',"メッセージ\r\n次の行");
 ?>
